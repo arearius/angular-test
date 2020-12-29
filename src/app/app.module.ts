@@ -11,10 +11,4 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   declarations: [ AppComponent, HelloComponent ],
   bootstrap:    [ AppComponent ]
 })
-export class AppModule {
-  model = {
-    left: true,
-    middle: false,
-    right: false
-  };
- }
+export class AppModule { }
