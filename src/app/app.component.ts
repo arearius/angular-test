@@ -1,5 +1,4 @@
 import { Component, VERSION } from '@angular/core';
-import {NgbConfig} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'my-app',
